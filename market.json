@@ -3,7 +3,7 @@
         "name": "推荐",
         "list": [
             {
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/本地资源.zip",
+                "url": "",
                 "icon": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/莫比乌斯环.jpg"
             }
         ]
@@ -13,7 +13,7 @@
         "list": [
             {
                 "name": "单线路",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/本单线路.zip",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/单线路.zip",
                 "icon": "",
                 "version": "20250106"
             }
@@ -24,7 +24,7 @@
         "list": [
             {
                 "name": "多线路",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/本多线路.zip",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/多线路.zip",
                 "icon": "",
                 "version": "20250106"
             }
