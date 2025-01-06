@@ -9,11 +9,22 @@
         ]
     },
     {
-        "name": "正式版",
+        "name": "单线路",
         "list": [
             {
-                "name": "本地包",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/本地资源.zip",
+                "name": "单线路",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/本单线路.zip",
+                "icon": "",
+                "version": "20250106"
+            }
+        ]
+    },
+    {
+        "name": "多线路",
+        "list": [
+            {
+                "name": "多线路",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/本多线路.zip",
                 "icon": "",
                 "version": "20250106"
             }
