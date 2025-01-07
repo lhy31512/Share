@@ -22,7 +22,14 @@
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/多线路.zip",
                 "icon": "",
                 "version": "20250107"
-            }
+            },
+            {
+                "name": "补丁",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/补丁.zip",
+                "icon": "",
+                "version": "20250107"
+            },
+            
         ]
     }
 ]
