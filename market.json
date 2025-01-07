@@ -4,7 +4,7 @@
         "list": [
             {
                 "url": "",
-                "icon": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/莫比乌斯环.jpg"
+                "icon": "https://raw.kkgithub.com/PizazzGY/Share/main/莫比乌斯环.jpg"
             }
         ]
     },
@@ -13,13 +13,13 @@
         "list": [
             {
                 "name": "单线路",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/单线路.zip",
+                "url": "https://raw.kkgithub.com/PizazzGY/Share/main/单线路.zip",
                 "icon": "",
                 "version": "20250107-1"
             },
             {
                 "name": "多线路",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/多线路.zip",
+                "url": "https://raw.kkgithub.com/PizazzGY/Share/main/多线路.zip",
                 "icon": "",
                 "version": "20250107-1"
             }
@@ -30,13 +30,13 @@
         "list": [
             {
                 "name": "单线路补丁",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/单线路补丁.zip",
+                "url": "https://raw.kkgithub.com/PizazzGY/Share/main/单线路补丁.zip",
                 "icon": "",
                 "version": "20250107"
             },
             {
                 "name": "多线路补丁",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/多线路补丁.zip",
+                "url": "https://raw.kkgithub.com/PizazzGY/Share/main/多线路补丁.zip",
                 "icon": "",
                 "version": "20250107"
             }
