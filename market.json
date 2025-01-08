@@ -24,22 +24,5 @@
                 "version": "20250108-1"
             }
         ]
-    },
-    {
-        "name": "补丁",
-        "list": [
-            {
-                "name": "单线路补丁",
-                "url": "https://gh.sixyin.com/raw.githubusercontent.com/PizazzGY/Share/main/单线路补丁.zip",
-                "icon": "",
-                "version": "20250107"
-            },
-            {
-                "name": "多线路补丁",
-                "url": "https://gh.sixyin.com/raw.githubusercontent.com/PizazzGY/Share/main/多线路补丁.zip",
-                "icon": "",
-                "version": "20250107"
-            }
-        ]
     }
 ]
